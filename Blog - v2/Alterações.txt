@@ -1,0 +1,5 @@
+- mudança na estrutura do menu;
+- adição de uma imagem place holder à direita da 
+postagem;
+- pequena alteração no tamanho dos botões (quando
+muda o tamanho da tela).
