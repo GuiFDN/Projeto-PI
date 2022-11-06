@@ -10,6 +10,7 @@ body {
     padding: 20px 10px;
   }
 
+
   /*Altera os botões Criar e Login*/
   .header a {
     float: left;
@@ -231,3 +232,5 @@ body {
     from {opacity: .5}
     to {opacity: 2}
   }
+
+  
