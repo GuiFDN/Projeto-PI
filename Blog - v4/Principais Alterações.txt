@@ -1,0 +1,26 @@
+Principais alterações:
+
+13/11
+- Os botões de login e criar possuem a mesma margem responsiva;
+- O logo pode ser clicável e a página é redirecionada para o home;
+- As matérias ficam centralizadas no meio da tela;
+- Troca de imagem de uma das matérias (para melhor visualização nos testes).
+
+---------
+- Novo arquivo css para modificar o corpo das notícias, decidi por em um arquivo separado
+para não entrar em conflito com os outros modelos de página, apesar de ter pouquíssima linhas
+de códido.
+
+- Alteração nas matérias. Agora ao clicar no botão "acessar matéria", em qualquer notícia 
+disponível, irá direcioná-la para a sua respectiva matéria, já com o design pronto.
+
+- O código html e css estão bem padronizados, para fazer uma nova matéria basta fazer pequenas
+alterações no texto e na imagem.
+
+Observações:
+1) Quando eu baixei o código no git, algumas imagens não apareceram no site, talvez seja um
+problema com o meu VSCode. As imagens das matérias estão com o mesmo link de acesso dos cartões,
+não sei se isso pode ajudar. 
+
+2) Apenas a matéria do new_banner.html está com um link de imagem na pasta "materias", usei isso
+apenas para facilitar na programação, se quiser mudar sem problema.
