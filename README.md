@@ -1,2 +1,4 @@
 # Projeto-PI
-Site do Projeto de PI Blog
+Site do Projeto Integrador Interdisciplinar de Front End
+
+A pasta "cronicasGenshin" contem o código final do projeto 
